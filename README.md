@@ -92,4 +92,11 @@ AVMuST-TED can also be used for quantitative verification of cross-lingual multi
 CC-BY-NC 4.0
 
 ## Citation
->
+```BibTeX
+@article{cheng2023mixspeech,
+  title={MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition},
+  author={Cheng, Xize and Li, Linjun and Jin, Tao and Huang, Rongjie and Lin, Wang and Wang, Zehan and Liu, Huangdai and Wang, Ye and Yin, Aoxiong and Zhao, Zhou},
+  journal={arXiv preprint arXiv:2303.05309},
+  year={2023}
+}
+```

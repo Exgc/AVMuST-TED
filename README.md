@@ -86,7 +86,7 @@ AVMuST-TED contains over 706 hours of videos and the translation text of 4 diffe
 AVMuST-TED can also be used for quantitative verification of cross-lingual multimodal generation tasks, such as [Cross-lingual Talking Head Generation](https://developer.nvidia.com/maxine).
 
 ## Download
-   **AVMuST-TED will be available soon!**
+   **BaiduDisk** 链接: https://pan.baidu.com/s/1Yr6tm56ygEJpCCKe37cAQg?pwd=b9up 
 
 ## License
 CC-BY-NC 4.0
